@@ -6,7 +6,9 @@
     1. This reads in the big dataset and combines our external dataset, resulting in 1 main file: [iowa_mounth_county.csv](https://github.com/juliandavis7/401_Project1/blob/master/iowa_month_county.csv)
     
 2. [Find Most Interpretive](https://github.com/juliandavis7/401_Project1/blob/master/find_most_interpretive.ipynb)
-    1. This performs our forward stepwise process to find the most interpretive model
+    1. This notebook reads in our final aggregated dataset
+    2. This contains all our functions to run the regression 
+    3. This performs our forward stepwise process to find the most interpretive model
     
 3. [Find Most Predictive](https://github.com/juliandavis7/401_Project1/blob/master/find_most_predictive.ipynb)
     1. This performs our backward stepwise process to find the most predictive model
